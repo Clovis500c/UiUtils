@@ -45,10 +45,3 @@ extra:
       link: https://github.com/Clovis500c
     - icon: simple/x
       link: https://x.com/clovis500c
-plugins:
-  - search
-  - auto-refresh-build-pages:
-      update_message: "The page has been updated. Do you want to reload?"
-      yes_button_text: "Yes"
-      no_button_text: "No"
-      check_interval_seconds: 5
