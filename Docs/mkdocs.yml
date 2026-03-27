@@ -1,0 +1,54 @@
+site_name: Ui Utils
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Methods:
+      - Avatar: methods/Avatar.md
+      - Toggle: methods/Toggle.md
+      - Hover: methods/Hover.md
+      - Gradient: methods/Gradient.md
+      - PlaceVersion: methods/PlaceVersion.md
+      - Username: methods/Username.md
+      - PromptPurchase: methods/PromptPurchase.md
+      - Leaderstats: methods/Leaderstats.md
+  - CustomAttributes:
+      - UserId: custom_attributes/UserId.md
+  - Presets:
+      - NormalButton: presets/NormalButton.md
+theme:
+  name: material
+  icon:
+    logo: material/book-open-page-variant
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: blue
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+extra:
+  social:
+    - icon: simple/roblox
+      link: https://www.roblox.com/users/1964468404/profile
+    - icon: simple/robloxstudio
+      link: https://devforum.roblox.com/u/clovis500c/summary
+    - icon: simple/github
+      link: https://github.com/Clovis500c
+    - icon: simple/x
+      link: https://x.com/clovis500c
+plugins:
+  - search
+  - auto-refresh-build-pages:
+      update_message: "The page has been updated. Do you want to reload?"
+      yes_button_text: "Yes"
+      no_button_text: "No"
+      check_interval_seconds: 5
