@@ -1,1 +1,1 @@
-# Avatar
+# {{ page.title }}
