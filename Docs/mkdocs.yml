@@ -14,7 +14,6 @@ nav:
       - Leaderstats: methods/Leaderstats.md
   - CustomAttributes:
       - UserId: custom_attributes/UserId.md
-  - Preset: preset.md
   - Presets:
       - NormalButton: presets/NormalButton.md
 theme:
@@ -53,3 +52,9 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
