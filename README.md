@@ -14,6 +14,6 @@
 
 ### 📦 Installation
 1.  Install the **UiUtils Loader** from the Release:
-    > [**Download Release (Coming Soon)**](#)
+    > [**Download Release**](https://github.com/Clovis500c/UiUtils/releases)
 2.  Open **Roblox Studio**.
 3.  Put The File You Download in StarterPlayer -> StarterPlayerScripts
