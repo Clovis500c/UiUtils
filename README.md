@@ -7,7 +7,7 @@
 
   <h3>UiUtils is a modern open-source alternative to animate and make functional your UIs.</h3>
 
-  <a href="https://Clovis500c.github.io/UiUtils/Docs"><strong>View docs →</strong></a>
+  <a href="https://Clovis500c.github.io/UiUtils"><strong>View docs →</strong></a>
 </div>
 
 ---
